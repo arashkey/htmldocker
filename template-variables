@@ -1,3 +1,0 @@
-map $host $targetServer {
-  default "$TARGET_SERVER";
-}
